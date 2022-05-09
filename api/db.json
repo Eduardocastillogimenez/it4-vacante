@@ -1,0 +1,1810 @@
+{
+  "data": [
+    {
+      "id": 77,
+      "name": "123",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 86,
+      "name": "AD",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 84,
+      "name": "Additional Advice",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 70,
+      "name": "AP Team Leader",
+      "description": "Contact person if any issues 123 neh testy 2",
+      "assistType": -1,
+      "documentTypeId": 1082,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 21,
+      "name": "AP Team Leader ",
+      "description": "Contact person if any issues 123 neh testy 2",
+      "assistType": -1,
+      "documentTypeId": 1082,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 2,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 71,
+      "name": "AP Team Leader ",
+      "description": "Contact person if any issues 123 neh testy 2",
+      "assistType": -1,
+      "documentTypeId": 1082,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 72,
+      "name": "AP Team Leader ",
+      "description": "Contact person if any issues 123 neh testy 2",
+      "assistType": -1,
+      "documentTypeId": 1082,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 73,
+      "name": "AP Team Leader ",
+      "description": "Contact person if any issues 123 neh testy 2",
+      "assistType": -1,
+      "documentTypeId": 1082,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 34,
+      "name": "Bank Account Details",
+      "description": "Information about the supplier details",
+      "assistType": 0,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 10,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 15,
+      "name": "Bank Account Details ",
+      "description": "Information about the supplier details",
+      "assistType": 0,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 10,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 81,
+      "name": "cbvb",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 9,
+      "name": "Coding Suggestion",
+      "description": "Try and determin the coding",
+      "assistType": 5,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 15,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 28,
+      "name": "Coding Suggestion",
+      "description": "Try and determin the coding",
+      "assistType": 5,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 15,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 82,
+      "name": "cv v",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 67,
+      "name": "DB to Dockets",
+      "description": "Take the current document and link to dockets",
+      "assistType": 9,
+      "documentTypeId": 49,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 43,
+      "name": "Duplicate Invoice 3",
+      "description": "Searches for invoices that appear to be duplicates of the current invoice",
+      "assistType": 4,
+      "documentTypeId": 1083,
+      "serverity": 1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": false,
+      "parameterTemplates": []
+    },
+    {
+      "id": 40,
+      "name": "Duplicate Warning",
+      "description": "Look at any duplicates in the system",
+      "assistType": 2,
+      "documentTypeId": -10,
+      "serverity": 1,
+      "options": [],
+      "entityId": -1,
+      "order": 21,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 13,
+      "name": "Early Payment",
+      "description": "Check if the payment would occur too early",
+      "assistType": 5,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 13,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 32,
+      "name": "Early Payment",
+      "description": "Check if the payment would occur too early",
+      "assistType": 5,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 13,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 75,
+      "name": "fgfgfg",
+      "description": "dfdgfdg",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 90,
+      "name": "Fixed",
+      "description": "",
+      "assistType": 0,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 68,
+      "name": "Flight Check",
+      "description": "Example Flight Check",
+      "assistType": 10,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 10,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 18,
+      "name": "Internal Help And Policy",
+      "description": "Internal Policy and Details",
+      "assistType": 7,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 4,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 37,
+      "name": "Internal Help And Policy",
+      "description": "Internal Policy and Details",
+      "assistType": 7,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 4,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 14,
+      "name": "Late Payment",
+      "description": "Check if the payment is overdue",
+      "assistType": 5,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 14,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 33,
+      "name": "Late Payment",
+      "description": "Check if the payment is overdue",
+      "assistType": 5,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 14,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 65,
+      "name": "Link Discount",
+      "description": "Take the current document and link to dockets",
+      "assistType": 9,
+      "documentTypeId": 49,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 59,
+      "name": "Link Dockets",
+      "description": "Take the current document and link to dockets",
+      "assistType": 9,
+      "documentTypeId": 49,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 60,
+      "name": "Link Dockets",
+      "description": "Link dockets to other dockets in same document",
+      "assistType": 9,
+      "documentTypeId": 53,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 61,
+      "name": "Link Paid Outs",
+      "description": "Link Cashier Paid Outs",
+      "assistType": 9,
+      "documentTypeId": 44,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 41,
+      "name": "Mentions",
+      "description": "Check various marks defined in notes",
+      "assistType": 5,
+      "documentTypeId": -1,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 14,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 85,
+      "name": "No Advice",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 16,
+      "name": "Out Of Variance",
+      "description": "Totals are out of variance",
+      "assistType": 4,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 17,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 35,
+      "name": "Out Of Variance",
+      "description": "Totals are out of variance",
+      "assistType": 3,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 17,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 42,
+      "name": "Outstanding Actions",
+      "description": "Actions not yet completed",
+      "assistType": 5,
+      "documentTypeId": -1,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 14,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 6,
+      "name": "Query Look Up",
+      "description": "Look up to 3rd party data",
+      "assistType": 2,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 18,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 25,
+      "name": "Query Look Up",
+      "description": "Look up to 3rd party data",
+      "assistType": 2,
+      "documentTypeId": 99941,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 18,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 12,
+      "name": "Ready for payment",
+      "description": "Invoice ready for payment",
+      "assistType": 5,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 12,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 31,
+      "name": "Ready for payment",
+      "description": "Invoice ready for payment",
+      "assistType": 5,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 12,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 5,
+      "name": "Review Invoice Tax",
+      "description": "Review the tax and advise if any issues",
+      "assistType": 4,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 7,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 24,
+      "name": "Review Invoice Tax",
+      "description": "Review the tax and advise if any issues",
+      "assistType": 4,
+      "documentTypeId": 888,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 7,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 39,
+      "name": "Review Invoice Tax",
+      "description": "Review the tax and advise if any issues",
+      "assistType": -1,
+      "documentTypeId": 38,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 7,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 4,
+      "name": "Review Invoice Totals",
+      "description": "Review the total and advise if any issues",
+      "assistType": 4,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 6,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 23,
+      "name": "Review Invoice Totals",
+      "description": "Review the total and advise if any issues",
+      "assistType": 4,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 6,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 83,
+      "name": "Some advice",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 11,
+      "name": "Supplier Contact Details",
+      "description": "Details of the contact for the supplier",
+      "assistType": 6,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 6,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 30,
+      "name": "Supplier Contact Details",
+      "description": "Details of the contact for the supplier",
+      "assistType": 6,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 6,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 10,
+      "name": "Supplier Details - Query",
+      "description": "Look up to 3rd party data",
+      "assistType": 2,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 29,
+      "name": "Supplier Details - Query",
+      "description": "Look up to 3rd party data",
+      "assistType": 2,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 47,
+      "name": "Supplier Details - Query",
+      "description": "Look up to 3rd party data",
+      "assistType": 2,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 48,
+      "name": "Supplier Details - Query",
+      "description": "Look up to 3rd party data",
+      "assistType": 2,
+      "documentTypeId": 3,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 19,
+      "name": "Supplier Information",
+      "description": "Supper Info",
+      "assistType": 7,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 20,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 38,
+      "name": "Supplier Information",
+      "description": "Supper Info",
+      "assistType": 7,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 20,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 8,
+      "name": "Supplier Invoice Date",
+      "description": "Looks at the age of the invoice date",
+      "assistType": 5,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 9,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 27,
+      "name": "Supplier Invoice Date",
+      "description": "Looks at the age of the invoice date",
+      "assistType": 5,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 9,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 1,
+      "name": "Supplier Invoice Policy",
+      "description": "Ensure the policy is met",
+      "assistType": 0,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 3,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 7,
+      "name": "Supplier Invoice Policy",
+      "description": "Ensure the policy is met",
+      "assistType": 0,
+      "documentTypeId": 999,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 8,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 20,
+      "name": "Supplier Invoice Policy",
+      "description": "Ensure the policy is met",
+      "assistType": 3,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 3,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 26,
+      "name": "Supplier Invoice Policy",
+      "description": "Ensure the policy is met",
+      "assistType": 0,
+      "documentTypeId": 999,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 8,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 3,
+      "name": "Supplier Invoice Total",
+      "description": "Looks at the normal invoice amount for this supplier and advises if higher than expected.",
+      "assistType": 5,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 5,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 22,
+      "name": "Supplier Invoice Total",
+      "description": "Looks at the normal invoice amount for this supplier and advises if higher than expected.",
+      "assistType": 5,
+      "documentTypeId": 999,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 5,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 17,
+      "name": "Supplier Spend",
+      "description": "Look up to 3rd party data",
+      "assistType": 8,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 16,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 36,
+      "name": "Supplier Spend",
+      "description": "Look up to 3rd party data",
+      "assistType": 8,
+      "documentTypeId": 41,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 16,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 80,
+      "name": "test",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 94,
+      "name": "TEst",
+      "description": "",
+      "assistType": 0,
+      "documentTypeId": 1065,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 74,
+      "name": "test 1",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 91,
+      "name": "test 1 ",
+      "description": "",
+      "assistType": 0,
+      "documentTypeId": 6,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 92,
+      "name": "test david",
+      "description": "",
+      "assistType": 0,
+      "documentTypeId": 6,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 93,
+      "name": "test david3",
+      "description": "",
+      "assistType": 0,
+      "documentTypeId": 6,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 76,
+      "name": "test william 1",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 87,
+      "name": "Test2",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 88,
+      "name": "Test2",
+      "description": "",
+      "assistType": 0,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 89,
+      "name": "Test3",
+      "description": "",
+      "assistType": 0,
+      "documentTypeId": 1114,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 45,
+      "name": "Transcript",
+      "description": "Transcribe File",
+      "assistType": 9,
+      "documentTypeId": -2,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 2,
+      "name": "Update Assist",
+      "description": "Update Description",
+      "assistType": -1,
+      "documentTypeId": 4,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 2,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 46,
+      "name": "Update Assist   tesrto",
+      "description": "Update Description",
+      "assistType": -1,
+      "documentTypeId": 3,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 78,
+      "name": "william test 17",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 44,
+      "name": "XLS Actions",
+      "description": "Excel Automation",
+      "assistType": 9,
+      "documentTypeId": 1087,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 69,
+      "name": "XLS Actions",
+      "description": "Excel Automation",
+      "assistType": 9,
+      "documentTypeId": 1085,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": 1,
+      "enabled": true,
+      "parameterTemplates": []
+    },
+    {
+      "id": 79,
+      "name": "yrdy",
+      "description": "",
+      "assistType": -1,
+      "documentTypeId": 0,
+      "serverity": -1,
+      "options": [],
+      "entityId": -1,
+      "order": -1,
+      "enabled": true,
+      "parameterTemplates": []
+    }
+  ],
+  "popup": [
+    {
+      "name": "Searching",
+      "description": "Search properties and settings.",
+      "settings": [
+        {
+          "settingName": 1,
+          "displayName": "Document Type Search",
+          "description": "Search for a document type using tags as criteria.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 2,
+          "displayName": "Global Search",
+          "description": "Search for a document using keywords across multiple document types.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 3,
+          "displayName": "Content Search",
+          "description": "Search within documents and metadata for keywords.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 6,
+          "displayName": "Synonyms Search",
+          "description": "Search for keywords with the same meaning.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 5,
+          "displayName": "Maximum Search Results",
+          "description": "The default value of results to return when searching.",
+          "value": "500",
+          "dataType": 5
+        },
+        {
+          "settingName": 7,
+          "displayName": "Change Entity",
+          "description": "Allow the user to change the entity within the application.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Index",
+      "description": "Settings and properties assoicated to indexing a document.",
+      "settings": [
+        {
+          "settingName": 10,
+          "displayName": "Intray",
+          "description": "Show the users intray in the application.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 11,
+          "displayName": "Index",
+          "description": "Allow the user to index a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 12,
+          "displayName": "Move Documents",
+          "description": "Move documents to different Intrays.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 13,
+          "displayName": "View Trays",
+          "description": "Allow users to view other Intrays.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 15,
+          "displayName": "Tags Pane",
+          "description": "Show the metadata tags when viewing a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 16,
+          "displayName": "Assist Pane",
+          "description": "Show the assist pane when viewing a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 17,
+          "displayName": "Audit",
+          "description": "Show the audit and information pane when viewing a document.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Document",
+      "description": "Settings and properties assoicated to a document.",
+      "settings": [
+        {
+          "settingName": 20,
+          "displayName": "Intray",
+          "description": "Show the users intray in the application.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 21,
+          "displayName": "Add Attachments",
+          "description": "Allow attachments to be added to documents.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 22,
+          "displayName": "Remove Attachments",
+          "description": "Allow attachments to be removed from documents.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 23,
+          "displayName": "Notes",
+          "description": "Allow attachments to be added to documents.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 24,
+          "displayName": "Notes",
+          "description": "Allow mark ups to be added to documents.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 25,
+          "displayName": "Split Documents",
+          "description": "Allow documents to be split to multiple pages per document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 26,
+          "displayName": "Merge Documents",
+          "description": "Allow documents to be merged into a single document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 27,
+          "displayName": "Document Preview",
+          "description": "Allow documents to be previewed.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 28,
+          "displayName": "Document Download",
+          "description": "Allow documents to be downloaded to the local machine.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 29,
+          "displayName": "Hyperlinks",
+          "description": "Allow hyperlinks.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 32,
+          "displayName": "Share Documents",
+          "description": "Share a document with external people outside the organisation.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 36,
+          "displayName": "Share Pane",
+          "description": "Show the share pane.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Revisions",
+      "description": "Settings and properties for document revisions.",
+      "settings": [
+        {
+          "settingName": 30,
+          "displayName": "Document Revisions",
+          "description": "Access previous revisions.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 31,
+          "displayName": "Create Revisions",
+          "description": "Create new revisions for documents.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 34,
+          "displayName": "Bulk Update",
+          "description": "Bulk update tags across multiple documents.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 35,
+          "displayName": "Delete Attachments",
+          "description": "Allow attachments to be deleted.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Workflow",
+      "description": "Settings and properties for workflows.",
+      "settings": [
+        {
+          "settingName": 40,
+          "displayName": "View Tasks",
+          "description": "Allow users to view their tasks.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 42,
+          "displayName": "Nudges",
+          "description": "Allow users to nudge users with tasks.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 43,
+          "displayName": "Alarms",
+          "description": "Create alarms and reminders for documents.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 44,
+          "displayName": "Rejection Notes",
+          "description": "Force rejection notes for a user.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 45,
+          "displayName": "Restart Workflow",
+          "description": "Allow a user to restart a workflow.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 46,
+          "displayName": "Divert Tasks",
+          "description": "Allow a user to divert a task to another user.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 47,
+          "displayName": "Workflow Administration",
+          "description": "Allow a user to manage tasks for all users.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 48,
+          "displayName": "Bulk Approve",
+          "description": "Allow a user to bulk approve tasks without opening the task.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 49,
+          "displayName": "Reassign Tasks",
+          "description": "Allow a user to resassign tasks to other users.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Email",
+      "description": "Settings and properties for emails.",
+      "settings": [
+        {
+          "settingName": 50,
+          "displayName": "Change Email",
+          "description": "Allow a user to manage their email address.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 51,
+          "displayName": "Reset Password",
+          "description": "Allow a user to reset their password.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Life Cycle",
+      "description": "Settings and properties for document life cycle.",
+      "settings": [
+        {
+          "settingName": 60,
+          "displayName": "Delete Document",
+          "description": "Allow a user to delete a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 61,
+          "displayName": "Review Document",
+          "description": "Allow a user to send to delete.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 62,
+          "displayName": "Destroy Document",
+          "description": "Allow a user to destroy a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 63,
+          "displayName": "Archive Document",
+          "description": "Allow a user to archive a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 64,
+          "displayName": "Check Out Document",
+          "description": "Allow a user to check out a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 65,
+          "displayName": "Export Document",
+          "description": "Allow a user to export a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 66,
+          "displayName": "Custom Export Document",
+          "description": "Allow a user to do a custom export of a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 67,
+          "displayName": "Export Document",
+          "description": "Allow a user to print a document.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Audit and Compliance",
+      "description": "Settings and properties for auditing the system.",
+      "settings": [
+        {
+          "settingName": 60,
+          "displayName": "Delete Document",
+          "description": "Allow a user to delete a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 61,
+          "displayName": "Review Document",
+          "description": "Allow a user to send to delete.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 62,
+          "displayName": "Destroy Document",
+          "description": "Allow a user to destroy a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 63,
+          "displayName": "Archive Document",
+          "description": "Allow a user to archive a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 64,
+          "displayName": "Check Out Document",
+          "description": "Allow a user to check out a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 65,
+          "displayName": "Export Document",
+          "description": "Allow a user to export a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 66,
+          "displayName": "Custom Export Document",
+          "description": "Allow a user to do a custom export of a document.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 67,
+          "displayName": "Export Document",
+          "description": "Allow a user to print a document.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Tablets and Mobile",
+      "description": "Settings and properties for devices.",
+      "settings": [
+        {
+          "settingName": 80,
+          "displayName": "Mobile Search",
+          "description": "Allow access to search on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 81,
+          "displayName": "Mobile Approval",
+          "description": "Allow access to approval on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 82,
+          "displayName": "Mobile Upload",
+          "description": "Allow access to upload on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 83,
+          "displayName": "Mobile QR Code",
+          "description": "Allow access to qr codes on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 84,
+          "displayName": "Mobile Forms",
+          "description": "Allow access to forms on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 85,
+          "displayName": "Mobile Intray",
+          "description": "Allow access to intray on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 86,
+          "displayName": "Mobile Access",
+          "description": "Allow access to access on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 87,
+          "displayName": "Mobile Favourites",
+          "description": "Allow access to favourites on a device.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 88,
+          "displayName": "Mobile Transfer Id",
+          "description": "Upload transfer Id.",
+          "value": "1",
+          "dataType": 5
+        },
+        {
+          "settingName": 500,
+          "displayName": "Device Mode",
+          "description": "The mode for the device",
+          "value": "1",
+          "dataType": 5
+        },
+        {
+          "settingName": 501,
+          "displayName": "Device Display Time",
+          "description": "Time image is show",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 502,
+          "displayName": "Device Allow Signing",
+          "description": "Device Allow Signing",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 503,
+          "displayName": "Device Allow Print Queue",
+          "description": "Device Allow Print Queue",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 504,
+          "displayName": "Device Allow Auto SHow",
+          "description": "Device Allow Auto Show",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 505,
+          "displayName": "Device Language",
+          "description": "Device Language",
+          "value": "1",
+          "dataType": 3
+        },
+        {
+          "settingName": 506,
+          "displayName": "Device Supported Language",
+          "description": "Device Supported Language",
+          "value": "1",
+          "dataType": 3
+        },
+        {
+          "settingName": 507,
+          "displayName": "Device Document Message",
+          "description": "Device Document Message",
+          "value": "1",
+          "dataType": 3
+        },
+        {
+          "settingName": 508,
+          "displayName": "Device Scan",
+          "description": "Device Document Scan",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 509,
+          "displayName": "Device Print",
+          "description": "Device Document Print",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Web Sites",
+      "description": "Support websites.",
+      "settings": [
+        {
+          "settingName": 90,
+          "displayName": "Support Site",
+          "description": "Website to connect to for support.",
+          "value": "http://support.it4group.com.au",
+          "dataType": 3
+        },
+        {
+          "settingName": 91,
+          "displayName": "Assets Site",
+          "description": "Location for supporting site assets.",
+          "value": "http://support.it4group.com.au",
+          "dataType": 3
+        },
+        {
+          "settingName": 92,
+          "displayName": "Image Site",
+          "description": "Location for supporting site images.",
+          "value": "http://support.it4group.com.au",
+          "dataType": 3
+        }
+      ]
+    },
+    {
+      "name": "Entity Management",
+      "description": "Mangment of Entity access.",
+      "settings": [
+        {
+          "settingName": 100,
+          "displayName": "Multiple Entities",
+          "description": "Allow manamgement of multiple entities.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Intray Management",
+      "description": "Mangment of Intrays.",
+      "settings": [
+        {
+          "settingName": 110,
+          "displayName": "Download WebSite",
+          "description": "Allow the user to download a website.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 111,
+          "displayName": "Send",
+          "description": "Allow the user to send to another intray.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 112,
+          "displayName": "Edit",
+          "description": "Allow the user to edit the document in the intray.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 113,
+          "displayName": "Split",
+          "description": "Allow the user to split the document in the intray.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 114,
+          "displayName": "Merge",
+          "description": "Allow the user to merge the document in the intray.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 115,
+          "displayName": "Transfer",
+          "description": "Allow the user to transfer the document in the intray.",
+          "value": "0",
+          "dataType": 6
+        },
+        {
+          "settingName": 116,
+          "displayName": "Automate",
+          "description": "Automate the document in the intray.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 117,
+          "displayName": "Rotate",
+          "description": "Rotate the document in the intray.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 118,
+          "displayName": "Drop Zones",
+          "description": "Show drop zone option within the intray.",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 119,
+          "displayName": "Deskew",
+          "description": "Allow the user to deskew the document in the intray.",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    },
+    {
+      "name": "Security And Access",
+      "description": "Access to specific functions.",
+      "settings": [
+        {
+          "settingName": 200,
+          "displayName": "Administration Access",
+          "description": "Access to Administration",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 201,
+          "displayName": "User Settings",
+          "description": "Access to User Settings",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 202,
+          "displayName": "Profile Access",
+          "description": "Access to Profiles",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 203,
+          "displayName": "Control Centre Access",
+          "description": "Access to Control Centres",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 206,
+          "displayName": "Form Access",
+          "description": "Access to Forms",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 207,
+          "displayName": "Report Access",
+          "description": "Access to User Reports",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 210,
+          "displayName": "In-app Help",
+          "description": "Show in-application help",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 211,
+          "displayName": "Shortcuts",
+          "description": "Show keyboard shortcuts",
+          "value": "1",
+          "dataType": 6
+        },
+        {
+          "settingName": 300,
+          "displayName": "System Type",
+          "description": "System Type",
+          "value": "1",
+          "dataType": 6
+        }
+      ]
+    }
+  ]
+}

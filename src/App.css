@@ -1,0 +1,25 @@
+.a{
+    width: auto;
+    height: 10px;
+    text-align: center;
+    margin-right: -3px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    min-height: 100vh;
+    z-index: 100;
+    position: relative;
+    border: solid 1px;
+    border-bottom: none;
+    background: rgba(170, 172, 170, 0.322);
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    display: inline;
+    border-radius: 50%;
+    font-size: 10px;
+
+
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
